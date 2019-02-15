@@ -1,0 +1,10 @@
+C:\RepoExp\CalculatorFSharp\obj\Debug\netcoreapp2.1\CalculatorFSharp.fsprojAssemblyReference.cache
+C:\RepoExp\CalculatorFSharp\obj\Debug\netcoreapp2.1\CalculatorFSharp.AssemblyInfoInputs.cache
+C:\RepoExp\CalculatorFSharp\obj\Debug\netcoreapp2.1\CalculatorFSharp.AssemblyInfo.fs
+C:\RepoExp\CalculatorFSharp\bin\Debug\netcoreapp2.1\CalculatorFSharp.deps.json
+C:\RepoExp\CalculatorFSharp\bin\Debug\netcoreapp2.1\CalculatorFSharp.runtimeconfig.json
+C:\RepoExp\CalculatorFSharp\bin\Debug\netcoreapp2.1\CalculatorFSharp.runtimeconfig.dev.json
+C:\RepoExp\CalculatorFSharp\bin\Debug\netcoreapp2.1\CalculatorFSharp.dll
+C:\RepoExp\CalculatorFSharp\bin\Debug\netcoreapp2.1\CalculatorFSharp.pdb
+C:\RepoExp\CalculatorFSharp\obj\Debug\netcoreapp2.1\CalculatorFSharp.dll
+C:\RepoExp\CalculatorFSharp\obj\Debug\netcoreapp2.1\CalculatorFSharp.pdb
